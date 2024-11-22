@@ -17,7 +17,7 @@ Fast CPU with 2+ cores
 # Installation
 - For Unix:
 ```bash
-wget -O glacier.sh https://raw.githubusercontent.com/fyibrow/Glacier-Verifier-Node/glacier.sh && chmod +x glacier.sh && ./glacier.sh
+wget -O glacier.sh https://raw.githubusercontent.com/fyibrow/Glacier-Verifier-Node/refs/heads/main/glacier.sh && chmod +x glacier.sh && ./glacier.sh 
 ```
 
 - You can just run this script at your own risk, I'm not responsible for any loss or damage caused by this bot. This bot is for educational purposes only.
