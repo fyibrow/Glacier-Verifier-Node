@@ -4,7 +4,7 @@
 mkdir -p ~/glacier
 
 # Download verifier
-wget https://github.com/Glacier-Labs/node-bootstrap/releases/download/v0.0.1-beta/verifier_linux_amd64 -O ~/glacier/verifier_linux_amd64
+wget https://github.com/Glacier-Labs/node-bootstrap/releases/download/v0.0.2-beta/verifier_linux_amd64 -O ~/glacier/verifier_linux_amd64
 
 # Minta input Private Key
 read -p "Masukkan Private Key Anda: " private_key
